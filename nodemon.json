@@ -1,0 +1,5 @@
+{
+  "ignore": ["backend/temp-gcloud-key.json", "frontend/", "node_modules/"],
+  "watch": ["backend/**/*.js"],
+  "ext": "js,json"
+}
